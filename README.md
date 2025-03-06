@@ -1,6 +1,6 @@
 # Final Project - Intro to Data
 
-This is the final project for the Intro to Data Science course with Professor Zhang. The project involves an analytical approach to the optimal recommender system culminating in the a hybrid recommender chatbot using Streamlit.
+The project involves an analytical approach to the optimal recommender system culminating in the a hybrid recommender chatbot using Streamlit.
 
 ## Requirements
 
