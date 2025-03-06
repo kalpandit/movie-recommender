@@ -37,8 +37,3 @@ streamlit run chatbot_streamlit.py
 Follow the instructions above to install the required packages and run the chatbot application.
 
 The chatbot takes in a user id from the MovieLens dataset. You can ask the chatbot to recommend movies to the selected user. Functionality for outputting disrecommended movies is supported. Additionally, a content-based recommender is included in the design: ask the chatbot to recommend movies to the user based on the input watched title. 
-
-## License
-
-This project is licensed under the Nile License.
-
